@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keezgeez
 - 👀 I’m interested in Dunno
-- 🌱 I’m currently learning Java/PHP
+- 🌱 I’m currently learning blahblah
 - 📫 How to reach me https://www.facebook.com/christopherjohn.estorque
 
 <!---
