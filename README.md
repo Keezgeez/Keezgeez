@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Keezgeez
+- 👋 Hi, I’m Tope
 - 👀 I’m interested in Dunno
-- 🌱 I’m currently learning blahblah
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT EXPRESS JS GraphicDesign
 - 📫 How to reach me https://www.facebook.com/christopherjohn.estorque
 
 <!---
