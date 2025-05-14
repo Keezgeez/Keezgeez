@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tope
 - 👀 I’m interested in Dunno
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT EXPRESS JS GraphicDesign
+- 🌱 I’m currently dying
 - 📫 How to reach me https://www.facebook.com/christopherjohn.estorque
 
 <!---
